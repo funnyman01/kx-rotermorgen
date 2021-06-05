@@ -1,10 +1,10 @@
-version="1.000"
+version="1.10.5"
 tags={
 	"Alternative History"
+	"Historical"
+	"Map"
+	"National Focuses"
 }
-name="KX-RoterMorgen"
-dependencies={
-	"Kaiserredux: A Kaiserreich Expansion"
-	"Kaiserredux"
-}
-supported_version="1.10.4"
+name="Kaiserredux - RoterMorgen"
+supported_version="1.10.5"
+remote_file_id="2504120160"
